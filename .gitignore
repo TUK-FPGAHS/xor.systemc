@@ -21,3 +21,5 @@ Output.bmp
 
 xor.systemc.pro.user
 build-xor*
+
+cmakebuild
